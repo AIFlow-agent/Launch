@@ -1,0 +1,10 @@
+{
+  "name": "AIFLOW",
+  "description": "AIFLOW NFT",
+  "image": "ipfs://bafkreig6djrsek66mj3j6az6zv7ta7tjuclis7cr63xikzuqr5nkeq37cy",
+  "attributes": [
+    {"trait_type": "Background", "value": "Geo Angels"},
+    {"trait_type": "Product", "value": "Receipt"}
+  ],
+  "external_url": "https://aiflow.guru"
+}
